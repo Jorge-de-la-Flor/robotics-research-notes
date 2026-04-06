@@ -45,7 +45,7 @@ robotics-research-notes
 ├─ notes
 │  └─ kalman-filter-limitations.md
 └─ notes-es
-   └─ limitaciones del filtro de Kalman.md
+   └─ limitaciones-del-filtro-de-Kalman.md
 ```
 
 ---
