@@ -40,12 +40,17 @@ This repository serves as a collection of deep technical explorations that compl
 
 ```bash
 robotics-research-notes
+├─ LICENSE
 ├─ README.es.md
 ├─ README.md
 ├─ notes
-│  └─ kalman-filter-limitations.md
+│  ├─ estimation-failure-experiment.md
+│  ├─ kalman-filter-limitations.md
+│  └─ system-failure-analysis.md
 └─ notes-es
-   └─ limitaciones-del-filtro-de-Kalman.md
+   ├─ estimation-failure-experiment.md
+   ├─ kalman-filter-limitations.md
+   └─ system-failure-analysis.md
 ```
 
 ---
